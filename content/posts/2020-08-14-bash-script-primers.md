@@ -10,3 +10,9 @@ tags:
 description: ""
 socialImage: "/media/42-line-bible.jpg"
 ---
+
+## Debugging Environment variables
+
+```bash
+printenv
+```
